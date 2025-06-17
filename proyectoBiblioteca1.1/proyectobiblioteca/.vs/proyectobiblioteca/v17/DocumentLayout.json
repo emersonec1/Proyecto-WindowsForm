@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42367AFA-7644-4D33-B6D5-3F8888FBD879}|proyectobiblioteca\\proyectobiblioteca.csproj|c:\\users\\emerk\\onedrive\\escritorio\\proyectobibliotecaemerson (1)\\proyectobiblioteca\\proyectobiblioteca\\prestamoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42367AFA-7644-4D33-B6D5-3F8888FBD879}|proyectobiblioteca\\proyectobiblioteca.csproj|solutionrelative:proyectobiblioteca\\prestamoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42367AFA-7644-4D33-B6D5-3F8888FBD879}|proyectobiblioteca\\proyectobiblioteca.csproj|C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\usuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42367AFA-7644-4D33-B6D5-3F8888FBD879}|proyectobiblioteca\\proyectobiblioteca.csproj|solutionrelative:proyectobiblioteca\\usuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42367AFA-7644-4D33-B6D5-3F8888FBD879}|proyectobiblioteca\\proyectobiblioteca.csproj|c:\\users\\emerk\\onedrive\\escritorio\\proyectobibliotecaemerson (1)\\proyectobiblioteca\\proyectobiblioteca\\usuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42367AFA-7644-4D33-B6D5-3F8888FBD879}|proyectobiblioteca\\proyectobiblioteca.csproj|solutionrelative:proyectobiblioteca\\usuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42367AFA-7644-4D33-B6D5-3F8888FBD879}|proyectobiblioteca\\proyectobiblioteca.csproj|C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\lectoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42367AFA-7644-4D33-B6D5-3F8888FBD879}|proyectobiblioteca\\proyectobiblioteca.csproj|solutionrelative:proyectobiblioteca\\lectoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42367AFA-7644-4D33-B6D5-3F8888FBD879}|proyectobiblioteca\\proyectobiblioteca.csproj|c:\\users\\emerk\\onedrive\\escritorio\\proyectobibliotecaemerson (1)\\proyectobiblioteca\\proyectobiblioteca\\librosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42367AFA-7644-4D33-B6D5-3F8888FBD879}|proyectobiblioteca\\proyectobiblioteca.csproj|solutionrelative:proyectobiblioteca\\librosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42367AFA-7644-4D33-B6D5-3F8888FBD879}|proyectobiblioteca\\proyectobiblioteca.csproj|c:\\users\\emerk\\onedrive\\escritorio\\proyectobibliotecaemerson (1)\\proyectobiblioteca\\proyectobiblioteca\\lectoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42367AFA-7644-4D33-B6D5-3F8888FBD879}|proyectobiblioteca\\proyectobiblioteca.csproj|solutionrelative:proyectobiblioteca\\lectoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrestamoForm.cs",
+              "DocumentMoniker": "C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\PrestamoForm.cs",
+              "RelativeDocumentMoniker": "proyectobiblioteca\\PrestamoForm.cs",
+              "ToolTip": "C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\PrestamoForm.cs",
+              "RelativeToolTip": "proyectobiblioteca\\PrestamoForm.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAqwJoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T23:39:10.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\UsuarioForm.cs",
+              "RelativeDocumentMoniker": "proyectobiblioteca\\UsuarioForm.cs",
+              "ToolTip": "C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\UsuarioForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectobiblioteca\\UsuarioForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:38:38.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioForm.cs",
+              "DocumentMoniker": "C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\UsuarioForm.cs",
+              "RelativeDocumentMoniker": "proyectobiblioteca\\UsuarioForm.cs",
+              "ToolTip": "C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\UsuarioForm.cs",
+              "RelativeToolTip": "proyectobiblioteca\\UsuarioForm.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAWwIIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:26:45.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LectoresForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\LectoresForm.cs",
+              "RelativeDocumentMoniker": "proyectobiblioteca\\LectoresForm.cs",
+              "ToolTip": "C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\LectoresForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectobiblioteca\\LectoresForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:38:15.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LectoresForm.cs",
+              "DocumentMoniker": "C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\LectoresForm.cs",
+              "RelativeDocumentMoniker": "proyectobiblioteca\\LectoresForm.cs",
+              "ToolTip": "C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\LectoresForm.cs",
+              "RelativeToolTip": "proyectobiblioteca\\LectoresForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:25:01.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibrosForm.cs",
+              "DocumentMoniker": "C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\LibrosForm.cs",
+              "RelativeDocumentMoniker": "proyectobiblioteca\\LibrosForm.cs",
+              "ToolTip": "C:\\Users\\emerk\\OneDrive\\Escritorio\\proyectobibliotecaEmerson (1)\\proyectobiblioteca\\proyectobiblioteca\\LibrosForm.cs",
+              "RelativeToolTip": "proyectobiblioteca\\LibrosForm.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAjwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:34:44.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
